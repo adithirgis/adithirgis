@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi there! 👋🏽
 
 I am a Geospatial Analyst at [ILK Labs](https://www.ilklabs.com/) Bangalore, India. I love automating things and making a code, simple to use. Developer and maintainer of [`mmaqshiny`](https://cran.rstudio.com/web/packages/mmaqshiny/index.html). I would be glad to hear suggestions or feedback for this (mmaqshiny) [package](https://joss.theoj.org/papers/10.21105/joss.02250). I am also a co-founder and co-organiser of [R-Ladies Bangalore](https://twitter.com/RLadiesBLR) and a peer [reviewer](https://joss.theoj.org/papers/reviewed_by/@adithirgis) for the Journal of Open Source Software. Looking forward to see some of you during useR! 2021!
 
