@@ -16,6 +16,7 @@ I love #rstats, #python, #environment, slides with emojis, #wildlife, burgers, s
 - 💬 Ask me about my programming journey or just how to write shorter codes.
 - 📫 How to reach me: [@AdithiUpadhya](https://twitter.com/AdithiUpadhya), or here or email me - [adithiru095@gmail.com](). 
 - ⚡ Fun fact: I am lazy coder, will come up with this soon!
+- Pronouns - she/her
 - Read this [article in NYT](https://www.nytimes.com/interactive/2020/12/17/world/asia/india-pollution-inequality.html) to know more about our work at ILK! 
 
  Bye!
