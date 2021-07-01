@@ -11,7 +11,7 @@ As part of R Ladies Asia we are proposing an incubator at useR! 2021 about Strat
 I love #rstats, #python, #environment, slides with emojis, #wildlife, burgers, slender lorises and I believe in converting(SpatialData_To_Information). I am a huge fan of [Rcpp](https://cran.r-project.org/web/packages/Rcpp/index.html) and of course [rayshader.](https://cran.r-project.org/web/packages/rayshader/index.html)
 
 - 🔭 I’m currently working on Mobile Monitoring of Air Quality in Bangalore.
-- 🌱 I’m constantly learning to automate and code effectively. 
+- 🌱 I’m constantly learning to automate and code effectively. And have developed interest in MongoDB, DevOps.
 - 👯 I’m looking to collaborate on environment related projects!
 - 💬 Ask me about my programming journey or just how to write shorter codes.
 - 📫 How to reach me: [@AdithiUpadhya](https://twitter.com/AdithiUpadhya), or here or email me - [adithiru095@gmail.com](). 
