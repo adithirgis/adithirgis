@@ -1,5 +1,7 @@
 ### Hi there! 👋🏽 I am a 👩🏽‍💻
 
+Thanks for stopping by. 
+
 I am a Geospatial Analyst at [ILK Labs](https://www.ilklabs.com/) Bangalore, India. I love automating things and making a code, simple to use. Creator and maintainer of [`mmaqshiny`](https://cran.rstudio.com/web/packages/mmaqshiny/index.html) and [`pollucheck`](https://github.com/adithirgis/pollucheck). I would be glad to hear suggestions or feedback for these packages. I am also a co-founder and co-organiser of [R-Ladies Bangalore](https://twitter.com/RLadiesBLR) and a peer [reviewer](https://joss.theoj.org/papers/reviewed_by/@adithirgis) for the Journal of Open Source Software. I am a part of Global organizing committee  for the [useR! 2021](https://user2021.r-project.org/about/global-team/), in which I contributed to finding sponsors, assisting program, content team and am also the member of Code of Conduct response team. I volunteer for [Bangpypers](https://bangalore.pythonindia.org/), Bangalore python users group. Along with all this I was a GIS consultant for Asian Nature Conservation Foundation. 
 
 Current project - Mobile Monitoring of Air Quality in Bangalore, India and applying different predictive models to low-cost air quality sensor data.
@@ -14,10 +16,10 @@ I love #rstats, #python, #environment, slides with emojis, #wildlife, burgers, s
 - 🌱 I’m constantly learning to automate and code effectively. And have developed interest in MongoDB, DevOps.
 - 👯 I’m looking to collaborate on environment related projects!
 - 💬 Ask me about my programming journey or just how to write shorter codes.
-- 📫 How to reach me: [@AdithiUpadhya](https://twitter.com/AdithiUpadhya), or here or email me - [adithiru095@gmail.com](). 
 - ⚡ Fun fact: I am lazy coder, will come up with this soon!
 - Languages known - C++, C#, R, Python, English, Hindi, Kannada, Tulu, Tamil (can understand and speak) and Telugu (can understand and speak)
 - Pronouns - she/her
 - Read this [article in NYT](https://www.nytimes.com/interactive/2020/12/17/world/asia/india-pollution-inequality.html) to know more about our work at ILK! 
 
+📫 How to reach me: [@AdithiUpadhya](https://twitter.com/AdithiUpadhya), or here or email me - [adithiru095@gmail.com](). 
  Bye!
