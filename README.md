@@ -17,7 +17,7 @@ I love #rstats, #python, #environment, slides with emojis, #wildlife, burgers, s
 - 👯 I’m looking to collaborate on environment related projects!
 - 💬 Ask me about my programming journey or just how to write shorter codes.
 - ⚡ Fun fact: I am lazy coder, will come up with this soon!
-- Languages known - C++, C#, R, Python, English, Hindi, Kannada, Tulu, Tamil (can understand and speak) and Telugu (can understand and speak)
+- Languages known: C++, C#, R, Python, English, Hindi, Kannada, Tulu, Tamil (can understand and speak) and Telugu (can understand and speak)
 - Pronouns - she/her
 - Read this [article in NYT](https://www.nytimes.com/interactive/2020/12/17/world/asia/india-pollution-inequality.html) to know more about our work at ILK! 
 
