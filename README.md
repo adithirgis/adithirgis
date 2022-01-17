@@ -11,14 +11,14 @@ Open Source - I have started maintaining [ropenaq](https://github.com/ropensci/r
 
 As part of R Ladies Asia we proposed an incubator at useR! 2021 about Strategies to build a strong AsiaR community where we have featured users from Asia. Please contact me if you want to join us on this jouRney!
 
-I love #rstats, #python, #environment, slides with emojis, #wildlife, burgers, slender lorises and I believe in converting(SpatialData_To_Information). I am a huge fan of C++ and R and of course [rayshader.](https://cran.r-project.org/web/packages/rayshader/index.html)
+I love rstats, python, environment, slides with emojis, wildlife conservation, burgers, slender lorises and I believe in converting(SpatialData_To_Information). I am a huge fan of C++ and R and of course [rayshader.](https://cran.r-project.org/web/packages/rayshader/index.html)
 
 - 🔭 I’m currently working on Mobile Monitoring of Air Quality in Bangalore.
 - 🌱 I’m constantly learning to automate and code effectively. And have developed interest in MongoDB, DevOps.
 - 👯 I’m looking to collaborate on environment related projects!
 - 💬 Ask me about my programming journey or just how to write shorter codes.
 - ⚡ Fun fact: I am lazy coder, will come up with this soon!
-- Languages known: C++, C#, R, Python, English, Hindi, Kannada (can speak and write), Tulu, Tamil and Telugu (can speak)
+- Languages known: C++, C#, R, Python, English, Hindi, Kannada (can speak and read), Tulu, Tamil and Telugu (can only speak)
 - Pronouns - she/her
 - Read this [article in NYT](https://www.nytimes.com/interactive/2020/12/17/world/asia/india-pollution-inequality.html) to know more about our work at ILK! 
 
