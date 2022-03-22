@@ -7,8 +7,6 @@ Along with all this I was a GIS consultant for Asian Nature Conservation Foundat
 
 Current project - Mobile Monitoring of Air Quality in Bangalore, India and applying different predictive models to low-cost air quality sensor data.
 
-Open Source - I have started maintaining [ropenaq](https://github.com/ropensci/ropenaq). 
-
 As part of R Ladies Asia we proposed an incubator at useR! 2021 about Strategies to build a strong AsiaR community where we have featured users from Asia. Please contact me if you want to join us on this jouRney!
 
 I love rstats, python, environment, slides with emojis, wildlife conservation, burgers, slender lorises and I believe in converting(SpatialData_To_Information). I am a huge fan of C++ and R and of course [rayshader.](https://cran.r-project.org/web/packages/rayshader/index.html)
