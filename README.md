@@ -5,7 +5,7 @@ Thanks for stopping by.
 I am a Geospatial Analyst at [ILK Labs](https://www.ilklabs.com/) Bangalore, India. I love automating things and making a code, simple to use. Developer and maintainer of [`mmaqshiny`](https://cran.rstudio.com/web/packages/mmaqshiny/index.html) and [`pollucheck`](https://github.com/adithirgis/pollucheck). I am a certified [RStudio tidyverse instructor](https://education.rstudio.com/trainers/people/upadhya+adithi/). I am also a co-founder and co-organiser of [R-Ladies Bangalore](https://twitter.com/RLadiesBLR) and a peer reviewer for the [Journal of Open Source Software](https://joss.theoj.org/papers/reviewed_by/@adithirgis) and [rOpenSci](https://github.com/ropensci/software-review/issues/418#issuecomment-995521139). I was a part of Global organizing committee  for the [useR! 2021](https://user2021.r-project.org/about/global-team/) and also am a volunteer for [useR! 2022](https://user2022.r-project.org/). I volunteer for [Bangpypers](https://bangalore.pythonindia.org/), when not working for R communities. 
 Along with all this I was a GIS consultant for Asian Nature Conservation Foundation where I contributed in creating an Elephant Atlas for the state of Karnataka. 
 
-Current project - Mobile Monitoring of Air Quality in Bangalore, India and applying different predictive models to low-cost air quality sensor data.
+Current project - Land Use Regression modelling and Mobile Monitoring of air quality and applying different predictive models to low-cost air quality sensor data in Bangalore, India.
 
 As part of R Ladies Asia we proposed an incubator at useR! 2021 about Strategies to build a strong AsiaR community where we have featured users from Asia. Please contact me if you want to join us on this jouRney!
 
