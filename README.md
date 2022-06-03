@@ -7,7 +7,7 @@ Along with all this I was a GIS consultant for Asian Nature Conservation Foundat
 
 Current project - Land Use Regression modelling and Mobile Monitoring of air quality and applying different predictive models to low-cost air quality sensor data in Bangalore, India.
 
-As part of R Ladies Asia we proposed an incubator at useR! 2021 about Strategies to build a strong AsiaR community where we have featured users from Asia. Please contact me if you want to join us on this jouRney!
+Janani Ravi and I proposed an incubator at useR! 2021 about Strategies to build a strong AsiaR community where we have featured users from Asia. Please contact me if you want to join us on this jouRney!
 
 I love rstats, python, environment, slides with emojis, wildlife conservation, burgers, slender lorises and I believe in converting(SpatialData_To_Information). I am a huge fan of C++ and R and of course [rayshader.](https://cran.r-project.org/web/packages/rayshader/index.html)
 
