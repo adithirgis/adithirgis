@@ -8,7 +8,7 @@ I am also a co-founder and co-organiser of [R-Ladies Bangalore](https://twitter.
 
 [This](https://scholar.google.com/citations?user=eCqD41cAAAAJ&hl=en&authuser=1) is my Google Scholar profile. 
 
-###### Programmming Skills 
+#### Programmming Skills 
 
 - Data analysis (modelling, machine learning): R (advanced), SQL (intermediate), Python (beginner)
 - Software development: R (intermediate), C# (beginner)
@@ -18,7 +18,7 @@ I am also a co-founder and co-organiser of [R-Ladies Bangalore](https://twitter.
 - GIS Software: QGIS, ArcGIS, SAGA
 - Google Products: Google Maps API, Google Earth Engine
 
-###### more_info(Adithi) - 
+#### more_info(Adithi) 
 - 🔭 I’m currently working on Land Use Regression modelling and Mobile Monitoring of air quality and applying different predictive models to low-cost air quality sensor data in Bangalore, India.
 - 🌱 I’m constantly learning to automate and code effectively. And have developed interest in MongoDB, DevOps.
 - 👯 I’m looking to collaborate on environment related projects!
