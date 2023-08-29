@@ -10,7 +10,7 @@ I co-founded [R-Ladies Bangalore](https://twitter.com/RLadiesBLR) and am a co-fo
 
 #### Programmming Skills 
 
-- Data analysis: R (advanced), SQL (intermediate), Python (beginner)
+- Data analysis: R (advanced), SQL (intermediate), Python (intermediate)
 - Software development: R (intermediate), C# (beginner)
 - Web development: Shiny (intermediate), HTML/CSS (beginner), JavaScript (beginner)
 - Document preparation: markdown (intermediate)
