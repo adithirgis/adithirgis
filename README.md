@@ -29,5 +29,5 @@ I co-founded [R-Ladies Bangalore](https://twitter.com/RLadiesBLR) and [AsiaR](ht
 
 I love rstats, python, environment, slides with emojis, wildlife conservation, burgers, slender lorises and I believe in converting(SpatialData_To_Information). I am a huge fan of C++ and R.
 
-📫 How to reach me: [@AdithiUpadhya](https://twitter.com/AdithiUpadhya), or here or email me - [adithiru095@gmail.com](). 
+📫 How to reach me: Email me - [adithiru095@gmail.com](). 
  Bye!
