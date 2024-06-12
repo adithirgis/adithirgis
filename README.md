@@ -19,7 +19,7 @@ I co-founded [R-Ladies Bangalore](https://twitter.com/RLadiesBLR) and [AsiaR](ht
 - Google Products: Google Maps API, Google Earth Engine
 
 #### more_info(Adithi) 
-- 🔭 I’m currently working on low cost air quality sensor data analysis.
+- 🔭 I’m currently working on air quality and public health.
 - 🌱 I’m constantly learning to automate and code effectively and have developed interest in MongoDB, DevOps.
 - 👯 I’m looking to collaborate on environment related projects!
 - 💬 Ask me about my programming journey or just how to write shorter codes.
