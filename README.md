@@ -21,8 +21,7 @@ I co-founded [R-Ladies Bangalore](https://twitter.com/RLadiesBLR) and [AsiaR](ht
 #### more_info(Adithi) 
 - 🔭 I’m currently working on air quality and public health.
 - 🌱 I’m constantly learning to automate and code effectively and have developed interest in MongoDB, DevOps.
-- 👯 I’m looking to collaborate on environment related projects!
-- 💬 Ask me about my programming journey or just how to write shorter codes.
+- 👯 I’m looking to collaborate on environment /climate change data science projects!
 - ⚡ Fun fact: I am lazy coder, will come up with this soon!
 - Apart from work I like learning new languages (computer or human), reading, and recently linguistic history. 
 - Languages known: English, Hindi, Kannada (speak and read), Tulu, Tamil, and Telugu (speak)
