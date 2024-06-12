@@ -12,7 +12,7 @@ I co-founded [R-Ladies Bangalore](https://twitter.com/RLadiesBLR) and [AsiaR](ht
 
 - Data analysis: R (advanced), SQL (intermediate), Python (intermediate)
 - Software development: R (intermediate), C# (beginner)
-- Web development: Shiny (intermediate), HTML/CSS (beginner), JavaScript (beginner)
+- Web development: Shiny (intermediate), HTML/CSS (beginner)
 - Document preparation: markdown (intermediate)
 - DevOps: Git/GitHub
 - GIS Software: QGIS, ArcGIS, SAGA
@@ -25,7 +25,7 @@ I co-founded [R-Ladies Bangalore](https://twitter.com/RLadiesBLR) and [AsiaR](ht
 - 💬 Ask me about my programming journey or just how to write shorter codes.
 - ⚡ Fun fact: I am lazy coder, will come up with this soon!
 - Apart from work I like learning new languages (computer or human), reading, and recently linguistic history. 
-- Languages known: English, Hindi, Kannada (can speak and read), Tulu, Tamil and Telugu (can only speak)
+- Languages known: English, Hindi, Kannada (speak and read), Tulu, Tamil, and Telugu (speak)
 - Pronouns - she/her
 
 I love rstats, python, environment, slides with emojis, wildlife conservation, burgers, slender lorises and I believe in converting(SpatialData_To_Information). I am a huge fan of C++ and R and of course [rayshader.](https://cran.r-project.org/web/packages/rayshader/index.html)
