@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Adithi Upadhya!
-Geospatial & Data Science Consultant | R & Python Developer | Environmental Data Enthusiast
+Geospatial & Data Science Consultant | R Developer | Environmental Data Enthusiast
 
 I'm currently based in Bengaluru, India, working remotely with the University of Liverpool. My work revolves around using data to tell meaningful stories about the environment—especially air quality and public health. I thrive on simplifying complex workflows and automating repetitive tasks, all while keeping code clean, reusable, and user-friendly.
 
