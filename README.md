@@ -1,33 +1,22 @@
-### Hi there! 👋🏽 I am a 👩🏽‍💻
+### 👋 Hi there, I'm Adithi Upadhya!
+Geospatial & Data Science Consultant | R & Python Developer | Environmental Data Enthusiast
 
-Thanks for stopping by. 
+I'm currently based in Bengaluru, India, working remotely with the University of Liverpool. My work revolves around using data to tell meaningful stories about the environment—especially air quality and public health. I thrive on simplifying complex workflows and automating repetitive tasks, all while keeping code clean, reusable, and user-friendly.
 
-I am a Research Assistant at the University of Liverpool and a Geospatial and Data Science consultant based in Leeds, UK. I love automating things and making a code, simple to use. I am the developer and maintainer of [`mmaqshiny`](https://cran.rstudio.com/web/packages/mmaqshiny/index.html) and [`pollucheck`](https://github.com/adithirgis/pollucheck) which is open source and are shiny apps for analysing and visualising air quality data (data from specific instruments and open source air quality data available in India). I am a certified [Tidyverse instructor](https://education.rstudio.com/trainers/people/upadhya+adithi/) and am interested in teaching R to professionals and researchers. I am a peer reviewer for the [Journal of Open Source Software](https://joss.theoj.org/papers/reviewed_by/@adithirgis) and [rOpenSci](https://github.com/ropensci/software-review/issues/418#issuecomment-995521139). I was a part of Global organizing committee  for the [useR! 2021](https://user2021.r-project.org/about/global-team/). 
+I built [mmaqshiny](https://cran.rstudio.com/web/packages/mmaqshiny/index.html) and [pollucheck](https://github.com/adithirgis/pollucheck), open-source R Shiny apps designed for analyzing and visualizing air quality data from both official instruments and open data sources in India. I'm also a certified [Tidyverse instructor](https://education.rstudio.com/trainers/people/upadhya+adithi/), and actively contribute as a peer reviewer for the [Journal of Open Source Software](https://joss.theoj.org/papers/reviewed_by/@adithirgis) and [rOpenSci](https://github.com/ropensci/software-review/issues/418#issuecomment-995521139).
 
-I co-founded [R-Ladies Bangalore](https://twitter.com/RLadiesBLR) and [AsiaR](https://github.com/AsiaR-community). Along with all this I was a volunteer consultant for Asian Nature Conservation Foundation where I contributed in creating an Elephant Atlas for the state of Karnataka. 
+As a community builder, I co-founded [AsiaR](https://github.com/AsiaR-community) and  [R-Ladies Bangalore](https://x.com/RLadiesBLR), and was part of the global organizing team for [useR! 2021](https://user2021.r-project.org/about/global-team/). I’ve also volunteered as a consultant with the Asian Nature Conservation Foundation—combining my passion for tech with my love for wildlife.
 
-[This](https://scholar.google.com/citations?user=eCqD41cAAAAJ&hl=en&authuser=1) is my Google Scholar profile. I am passionate about reproducible research and wildlife conservation. 
+🔍 More About Me:
+- 💻 Languages: R (advanced), Python & SQL (intermediate), C# & HTML/CSS (beginner)  
+- 📦 Tools I enjoy: Shiny, QGIS, Google Earth Engine, GitHub, Markdown  
+- 🐍 I code to automate the boring stuff and explore the exciting stuff  
+- 🌍 I'm currently diving deep into environmental data science, especially around air pollution & public health  
+- 🧠 Always learning—whether it's a new programming language or a new spoken one  
+- 🔤 Languages I speak: English, Hindi, Kannada, Tulu, Tamil, Telugu  
+- 🐾 I care deeply about reproducible research, spatial data, and wildlife conservation  
+- 🦉 Slender lorises, rstats, and well-designed slides with emojis make me happy  
+- ⚡ Fun fact: I’m a lazy coder—if I do it twice, it gets automated
 
-#### Programmming Skills 
-
-- Data analysis: R (advanced), SQL (intermediate), Python (intermediate)
-- Software development: R (intermediate), C# (beginner)
-- Web development: Shiny (intermediate), HTML/CSS (beginner)
-- Document preparation: markdown (intermediate)
-- DevOps: Git/GitHub
-- GIS Software: QGIS, ArcGIS, SAGA
-- Google Products: Google Maps API, Google Earth Engine
-
-#### more_info(Adithi) 
-- 🔭 I’m currently working on air quality and public health.
-- 🌱 I’m constantly learning to automate and code effectively and have developed interest in MongoDB, DevOps.
-- 👯 I’m looking to collaborate on environment /climate change data science projects!
-- ⚡ Fun fact: I am lazy coder, will come up with this soon!
-- Apart from work I like learning new languages (computer or human), reading, and recently linguistic history. 
-- Languages known: English, Hindi, Kannada (speak and read), Tulu, Tamil, and Telugu (speak)
-- Pronouns - she/her
-
-I love rstats, python, environment, slides with emojis, wildlife conservation, burgers, slender lorises and I believe in converting(SpatialData_To_Information). I am a huge fan of C++ and R.
-
-📫 How to reach me: Email me - [adithiru095@gmail.com](). 
- Bye!
+📚 Check out my [Google Scholar publications](https://scholar.google.com/citations?hl=en&user=eCqD41cAAAAJ&view_op=list_works)  
+💬 Pronouns: she/her
