@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Adithi Upadhya!
 Geospatial & Data Science Consultant | R Developer | Environmental Data Enthusiast
 
-I'm currently based in Bengaluru, India, working remotely with the University of Liverpool. My work revolves around using data to tell meaningful stories about the environment—especially air quality and public health. I thrive on simplifying complex workflows and automating repetitive tasks, all while keeping code clean, reusable, and user-friendly.
+I'm currently based in Bengaluru, India, working remotely with the [University of Liverpool](https://www.liverpool.ac.uk/people/adithi-upadhya). My work revolves around using data to tell meaningful stories about the environment—especially air quality and public health. I thrive on simplifying complex workflows and automating repetitive tasks, all while keeping code clean, reusable, and user-friendly.
 
 I built [mmaqshiny](https://cran.rstudio.com/web/packages/mmaqshiny/index.html) and [pollucheck](https://github.com/adithirgis/pollucheck), open-source R Shiny apps designed for analyzing and visualizing air quality data from both official instruments and open data sources in India. I'm also a certified [Tidyverse instructor](https://education.rstudio.com/trainers/people/upadhya+adithi/), and actively contribute as a peer reviewer for the [Journal of Open Source Software](https://joss.theoj.org/papers/reviewed_by/@adithirgis) and [rOpenSci](https://github.com/ropensci/software-review/issues/418#issuecomment-995521139).
 
