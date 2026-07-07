@@ -12,11 +12,11 @@ As a community builder, I co-founded [AsiaR](https://github.com/AsiaR-community)
 - 📦 Tools I enjoy: Shiny, QGIS, Google Earth Engine, GitHub, Markdown  
 - 🐍 I code to automate the boring stuff and explore the exciting stuff  
 - 🌍 I'm currently diving deep into environmental data science, especially around air pollution & public health  
-- 🧠 Always learning—whether it's a new programming language or a new spoken one  
+- 🧠 Always learning - whether it's a new programming language or a new spoken one  
 - 🔤 Languages I speak: English, Hindi, Kannada, Tulu, Tamil, Telugu  
 - 🐾 I care deeply about reproducible research, spatial data, and wildlife conservation  
 - 🦉 Slender lorises, rstats, and well-designed slides with emojis make me happy  
-- ⚡ Fun fact: I’m a lazy coder—if I do it twice, it gets automated
+- ⚡ Fun fact: I’m a lazy coder-if I do it twice, it gets automated
 
 📚 Check out my [Google Scholar publications](https://scholar.google.com/citations?hl=en&user=eCqD41cAAAAJ&view_op=list_works)  
 💬 Pronouns: she/her
